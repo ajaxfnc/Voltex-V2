@@ -1,0 +1,240 @@
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/root/ghoul trooper testbot/node_modules/discord.js/src/client/BaseClient.js:45
+        userAgentAppendix: options.rest?.userAgentAppendix
+                                        ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/root/ghoul trooper testbot/node_modules/discord.js/src/index.js:6:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
